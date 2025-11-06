@@ -1,4 +1,4 @@
-# ML-Based Vehicle Predictive Maintenance System with Real-Time Visualization
+# Explainable Fleet Maintanance Predictor
 
 ## Overview
 
@@ -40,11 +40,11 @@ This project implements AI-driven predictive maintenance for vehicles, leveragin
 
 ## Contributors
 
-- Dharshan A
-- Pravin R F
-- Rishikaandh Devadoss
-- Abinayaa M K
+- Mohd Faisal
+- Sanjeev Nayan
+- Soumyajit Mukherjee
+- Kamal Saini
 
 ## Contact
 
-For questions or inquiries, please contact dharshanathi21@gmail.com.
+For questions or inquiries, please contact faisalmohd1357@ggmail.com
