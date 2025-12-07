@@ -8,7 +8,7 @@ import numpy as np
 #     model = pickle.load(file)
 import joblib
 # joblib.dump(model, "hhmodel.pkl")
-model = joblib.load('model_new.pkl')
+model = joblib.load('model_new1.pkl')
 
 
 # Define the customized ranges for each feature based on dataset statistics
