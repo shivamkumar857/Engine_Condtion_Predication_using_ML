@@ -40,11 +40,13 @@ This project implements AI-driven predictive maintenance for vehicles, leveragin
 
 ## Contributors
 
+- Shivam Kumar
 - Mohd Faisal
 - Sanjeev Nayan
 - Soumyajit Mukherjee
 - Kamal Saini
 
+
 ## Contact
 
-For questions or inquiries, please contact faisalmohd1357@ggmail.com
+For questions or inquiries, please contact shivamkandaber123@gmail.com
