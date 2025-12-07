@@ -31,7 +31,7 @@ This project implements AI-driven predictive maintenance for vehicles, leveragin
 - **app.py**: Streamlit code for the web application interface deployment.
 
 ## Usage
-
+0. Create a virtaul environment using this command "conda create -n myenv python=3.9
 1. Clone the repository: `git clone <repository_url>`
 2. Navigate to the project directory: `cd <repository_directory>`
 3. Install dependencies: `pip install -r requirements.txt`
